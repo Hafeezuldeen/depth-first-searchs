@@ -97,7 +97,8 @@ F H <BR>
 
 <h3>Sample Output</h3>
 
-![alt text](image.png)
+<img width="470" height="188" alt="image" src="https://github.com/user-attachments/assets/bf365add-271b-436d-b260-6a9ceeab32e5" />
+
 
 <h3>Sample Input</h3>
 
@@ -110,7 +111,8 @@ F H <BR>
 
 <h3>Sample Output</h3>
 
-![alt text](image-1.png)
+<img width="377" height="120" alt="image-1" src="https://github.com/user-attachments/assets/a21bdb48-1bba-4172-bc8f-67ef8271f624" />
+
 
 <h3>Result:</h3>
 
